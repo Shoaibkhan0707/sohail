@@ -5,3 +5,4 @@
 5->git status
 6-> git commit -m "git step"
 7->git log
+8->git push ->copy link from github
